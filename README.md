@@ -6,7 +6,7 @@ This repo contains schematics, PCB layouts, pinouts, firmware and documentation.
 
 ## License
 
-The contents of this repo are released under the [CERN-OHL-P](LICENSE.txt) license, with the following exceptions:
+The contents of this repo are released under the [Lone Dynamics Open License](LICENSE.md) with the following exceptions:
 
   * The ch32fun library is MIT licensed.
 
