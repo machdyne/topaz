@@ -6,6 +6,8 @@ Topaz is a headless computer that uses an ASIC module based on the open-source [
 
 This repo contains schematics, PCB layouts, firmware and documentation.
 
+Find more information on the [Topaz product page](https://machdyne.com/product/topaz-computer/).
+
 ## License
 
 The contents of this repo are released under the [Lone Dynamics Open License](LICENSE.md) with the following exceptions:
